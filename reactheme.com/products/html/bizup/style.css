@@ -2879,14 +2879,14 @@ body .search-modal .close:hover {
 ---------------------------------------*/
 .rs-banner.main-home {
   background: url(assets/images/businessman-holding-tablet-hot-fire-glowing-upright-arrow-financial-banking.jpg);
-  background-size: cover;
+  background-size: 100% 660px;
   background-repeat: no-repeat;
-  background-position: center;
+  /* background-position: center; */
   position: relative;
   z-index: 111;
 }
 .rs-banner.main-home .content-wrap {
-  padding: 350px 0 298px;
+  padding: 280px 0 40px;
   position: relative;
   z-index: 10;
 }
@@ -2898,7 +2898,7 @@ body .search-modal .close:hover {
   margin-bottom: 28px;
 }
 .rs-banner.main-home .content-wrap .title {
-  font-size: 84px;
+  font-size: 64px;
   line-height: 84px;
   font-weight: 800;
   color: #ffffff;
