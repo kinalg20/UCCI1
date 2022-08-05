@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Aug 2022 15:31:04 at https://reactheme.com/products/html/bizup/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://reactheme.com/products/html/bizup/ -O1 "C:\My Web Sites\theme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:31:55	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/apple-touch-icon.png (from https://reactheme.com/products/html/bizup/)
+15:33:53	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/assets/css/owl.video.play.png (from https://reactheme.com/products/html/bizup/assets/css/owl.carousel.css)
+15:33:53	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/assets/images/choose/call-us.jpg (from https://reactheme.com/products/html/bizup/style.css)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/blog-details (from https://reactheme.com/products/html/bizup/index3.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/assets/js/pointer.js (from https://reactheme.com/products/html/bizup/onepage2.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/project.html (from https://reactheme.com/products/html/bizup/portfolios-filter.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/branding.html (from https://reactheme.com/products/html/bizup/blog.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/digital-marketing.html (from https://reactheme.com/products/html/bizup/blog.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/e-commerce.html (from https://reactheme.com/products/html/bizup/blog.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/graphic-design.html (from https://reactheme.com/products/html/bizup/blog.html)
+15:33:57	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/blog-single (from https://reactheme.com/products/html/bizup/blog.html)
+15:33:58	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/assets/inc/custom-slider/img/loading.gif (from https://reactheme.com/products/html/bizup/assets/inc/custom-slider/css/preview.css)
+15:33:58	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/assets/inc/custom-slider/img/bullets.png (from https://reactheme.com/products/html/bizup/assets/inc/custom-slider/css/preview.css)
+15:33:58	Error: 	"Not Found" (404) at link https://reactheme.com/products/html/bizup/assets/inc/custom-slider/img/arrows.png (from https://reactheme.com/products/html/bizup/assets/inc/custom-slider/css/preview.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 380 links scanned, 365 files written (17181102 bytes overall) [14837088 bytes received at 85270 bytes/sec], 4633583 bytes transferred using HTTP compression in 65 files, ratio 13%, 17.2 requests per connection
+(14 errors, 0 warnings, 0 messages)
