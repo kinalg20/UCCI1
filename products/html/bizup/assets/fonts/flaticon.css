@@ -1,0 +1,85 @@
+	/*
+  	Montserrat icon font: Montserrat
+  	Creation date: 10/09/2019 11:56
+  	*/
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat.eot");
+  src: url("Montserratd41d.eot?#iefix") format("embedded-opentype"),
+       url("Montserrat.woff2") format("woff2"),
+       url("Montserrat.woff") format("woff"),
+       url("Montserrat.ttf") format("truetype"),
+       url("Montserrat.svg#Montserrat") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Montserrat";
+    src: url("Montserrat.svg#Montserrat") format("svg");
+  }
+}
+
+[class^="Montserrat-"]:before, [class*=" Montserrat-"]:before,
+[class^="Montserrat-"]:after, [class*=" Montserrat-"]:after {   
+  font-family: Montserrat;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.Montserrat-best:before { content: "\f100"; }
+.Montserrat-flower:before { content: "\f101"; }
+.Montserrat-timer:before { content: "\f102"; }
+.Montserrat-suitcase:before { content: "\f103"; }
+.Montserrat-chess-piece:before { content: "\f104"; }
+.Montserrat-clock:before { content: "\f105"; }
+.Montserrat-time-call:before { content: "\f106"; }
+.Montserrat-phone:before { content: "\f107"; }
+.Montserrat-call:before { content: "\f108"; }
+.Montserrat-email:before { content: "\f109"; }
+.Montserrat-location:before { content: "\f10a"; }
+.Montserrat-send:before { content: "\f10b"; }
+.Montserrat-bag:before { content: "\f10c"; }
+.Montserrat-supermarket:before { content: "\f10d"; }
+.Montserrat-basket:before { content: "\f10e"; }
+.Montserrat-shopping-bag:before { content: "\f10f"; }
+.Montserrat-right-arrow:before { content: "\f110"; }
+.Montserrat-left-arrow:before { content: "\f111"; }
+.Montserrat-back:before { content: "\f112"; }
+.Montserrat-right-arrow-1:before { content: "\f113"; }
+.Montserrat-next:before { content: "\f114"; }
+.Montserrat-back-1:before { content: "\f115"; }
+.Montserrat-upload:before { content: "\f116"; }
+.Montserrat-next-1:before { content: "\f117"; }
+.Montserrat-ui:before { content: "\f118"; }
+.Montserrat-next-2:before { content: "\f119"; }
+.Montserrat-back-2:before { content: "\f11a"; }
+.Montserrat-play-button:before { content: "\f11b"; }
+.Montserrat-play-button-1:before { content: "\f11c"; }
+.Montserrat-picture:before { content: "\f11d"; }
+.Montserrat-image:before { content: "\f11e"; }
+.Montserrat-gallery:before { content: "\f11f"; }
+.Montserrat-pictures:before { content: "\f120"; }
+.Montserrat-unlink:before { content: "\f121"; }
+.Montserrat-link:before { content: "\f122"; }
+.Montserrat-link-1:before { content: "\f123"; }
+.Montserrat-link-2:before { content: "\f124"; }
+.Montserrat-speaker:before { content: "\f125"; }
+.Montserrat-speaker-1:before { content: "\f126"; }
+.Montserrat-picture-1:before { content: "\f127"; }
+.Montserrat-picture-2:before { content: "\f128"; }
+.Montserrat-right-quote:before { content: "\f129"; }
+.Montserrat-error:before { content: "\f12a"; }
+.Montserrat-cross:before { content: "\f12b"; }
+.Montserrat-search:before { content: "\f12c"; }
+.Montserrat-shopping-bag-1:before { content: "\f12d"; }
+.Montserrat-eye:before { content: "\f12e"; }
+.Montserrat-user:before { content: "\f12f"; }
+.Montserrat-user-1:before { content: "\f130"; }
+.Montserrat-clock-1:before { content: "\f131"; }
+.Montserrat-comment:before { content: "\f132"; }
+.Montserrat-folder:before { content: "\f133"; }
+.Montserrat-price-tag:before { content: "\f134"; }
